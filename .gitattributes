@@ -1,0 +1,3 @@
+*.csv !text !filter !merge !diff
+*.tsv !text !filter !merge !diff
+*.txt !text !filter !merge !diff
