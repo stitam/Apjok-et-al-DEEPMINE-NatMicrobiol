@@ -1,0 +1,17 @@
+project: HMT5GAFX3
+tmpdir: "tmp"
+resdir: "results"
+log: "{tmpdir}/{project}"
+versions: "{tmpdir}/{project}_versions.log"
+datadir: "illumina"
+threads: 70
+
+amp: amplicon_sequences.csv
+samples: samples.csv
+barcodes: barcodes.tsv
+corrbarcodes: corrected_barcodes.tsv
+
+result:
+  bcnumbers: "results/{project}_bcnumbers.csv"
+  readnums: "results/{project}_readnums.csv"
+  good_reads: "results/{project}_bcnumbers_good_reads.csv"
