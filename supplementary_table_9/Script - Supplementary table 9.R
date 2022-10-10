@@ -175,16 +175,12 @@ n_dummies$SE_noAB <- replace_na(n_dummies$SE_noAB, FALSE)
 n_dummies$SS_noAB <- replace_na(n_dummies$SS_noAB, FALSE)
 
 #7. Read Table 7 created from updated Table 7 with Chryso's pipeline.
+supp7o <- read.csv("supp7f_nano10_illu9/supp7f_nano10_illu9.tsv", sep = "\t")
 
 #8. Left join Table 7 with the dummies
-
-supp7o <- read.csv("supp7f_nano10_illu9/supp7f_nano10_illu9.tsv", sep = "\t")
-#supp7o <- read.csv("supp7of - nano10 illu9.tsv", sep = "\t")
-
 supp7oj <- dplyr::left_join(supp7o, n_dummies)
 
 # filter to rows where hosts_noAB == 4
-
 supp7oj <- supp7oj[which(supp7oj$hosts_noAB == 4),]
 
 write.table(
