@@ -7,11 +7,16 @@ Code deposited for paper “Expanding the host-range of functional
 metagenomics reveals resistance threats to novel antibiotics”, Apjok et
 al. Nature Microbiology.
 
+Permanent storage for this repo, which includes both code and nanopore
+consensus sequences:
+
+[![zenodo](https://zenodo.org/badge/549198690.svg)](https://doi.org/10.5281/zenodo.7404624)
+
 ## System requirements
 
--   [Apptainer/Singularity](https://apptainer.org/) (for demultiplexing,
-    only works on linux)
--   [R](https://www.r-project.org/) (for all other scripts)
+- [Apptainer/Singularity](https://apptainer.org/) (for demultiplexing,
+  only works on linux)
+- [R](https://www.r-project.org/) (for all other scripts)
 
 ## Download data
 
