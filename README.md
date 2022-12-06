@@ -10,7 +10,7 @@ al. Nature Microbiology.
 Permanent storage for this repo, which includes both code and nanopore
 consensus sequences:
 
-[![zenodo](https://zenodo.org/badge/549198690.svg)](https://doi.org/10.5281/zenodo.7404624)
+<https://doi.org/10.5281/zenodo.7404623>
 
 ## System requirements
 
