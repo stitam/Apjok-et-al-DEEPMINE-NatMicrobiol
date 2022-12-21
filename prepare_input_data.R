@@ -53,16 +53,20 @@ setwd(root)
 
 # NANOPORE
 
-# unpack run1 nanopore contigs to run1/nanopore
+# download run1 nanopore data to run1/nanopore
 setwd("run1")
 if(!dir.exists("nanopore")) {
-  unzip("nanopore.zip")
+  dir.create("nanopore")
+  setwd("nanopore")
+  system("wget ftp://ftp.sra.ebi.ac.uk/vol1/ERZ152/ERZ15225006/ERS14372539.fasta.gz")
 }
 setwd(root)
 
-# unpack run2 nanopore contigs to run2/nanopore
+# download run2 nanopore data to run2/nanopore
 setwd("run2")
 if(!dir.exists("nanopore")) {
-  unzip("nanopore.zip")
+  dir.create("nanopore")
+  setwd("nanopore")
+  system("wget ftp://ftp.sra.ebi.ac.uk/vol1/ERZ152/ERZ15225022/ERS14372540.fasta.gz")
 }
 setwd(root)
