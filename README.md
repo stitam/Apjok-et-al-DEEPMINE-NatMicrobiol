@@ -3,24 +3,19 @@
 
 # Apjok-et-al-DEEPMINE-NatMicrobiol
 
-Code deposited for paper “Expanding the host-range of functional
-metagenomics reveals resistance threats to novel antibiotics”, Apjok et
-al. Nature Microbiology.
-
-Permanent storage for this repo, which includes both code and nanopore
-consensus sequences:
-
-<https://doi.org/10.5281/zenodo.7404623>
+Code deposited for paper “Characterization of antibiotic resistomes by
+reprogrammed bacteriophage-enabled functional metagenomics in clinical
+strains”, Apjok et al. Nature Microbiology.
 
 ## System requirements
 
-- [Apptainer/Singularity](https://apptainer.org/) (for demultiplexing,
-  only works on linux)
+- [Apptainer/Singularity](https://apptainer.org/) (for Illumina
+  demultiplexing, only works on linux)
 - [R](https://www.r-project.org/) (for all other scripts)
 
 ## Download data
 
-Illumina reads and nanopore contigs can be downloaded from the European
+Illumina reads and Nanopore contigs can be downloaded from the European
 Nucleotide Archive. Study Accession: PRJEB54063 (Secondary Accession:
 ERP138883)
 
@@ -28,7 +23,7 @@ ERP138883)
 suppressMessages(source("prepare_input_data.R"))
 ```
 
-## Demultiplex illumina reads
+## Demultiplex Illumina reads
 
 Download Apptainer/Singularity container for demultiplexing:
 
