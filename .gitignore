@@ -37,3 +37,20 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Project specific files
+
+containers
+
+run1/illumina
+run1/nanopore
+run1/tmp
+run1/D9JY2_barcodes.csv
+
+run2/illumina
+run2/nanopore
+run2/tmp
+run2/G73VD_barcodes.csv
+
+run3/illumina
+run3/tmp
