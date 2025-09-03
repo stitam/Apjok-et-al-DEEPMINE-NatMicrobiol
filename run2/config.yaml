@@ -1,0 +1,20 @@
+project: G73VD
+tmpdir: "tmp"
+resdir: "results"
+log: "{tmpdir}/{project}"
+versions: "{tmpdir}/{project}_versions.log"
+datadir: "illumina"
+threads: 60
+bwathreads: 15
+
+data:
+  read1: "{datadir}/Undetermined_S0_L001_R1_001.fastq.gz"
+  read2: "{datadir}/Undetermined_S0_L001_R2_001.fastq.gz"
+  amp: amplicon_sequences.csv
+  barcodes: "barcodes.csv"
+  corrbarcodes: "{project}_barcodes.csv"
+
+
+result:
+  bcnumbers: "results/{project}_bcnumbers.csv"
+  readnums: "results/{project}_readnums.csv"

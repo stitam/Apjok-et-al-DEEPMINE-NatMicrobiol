@@ -1,0 +1,285 @@
+Card.Res.Gene.Annotations	Universal.Gene.Name	Gene.AMR.Family	Gene.Further.Classification	Gene.Mechanism	mechanism	classification
+AAC(2')-Ib	AAC(2')-Ib	AAC(2')	Aminoglycoside acetyltransferase	antibiotic inactivation	antibiotic inactivation	AAC(2')
+aac(3)-I_1_AJ877225	AAC(3)-I	AAC(3)	Aminoglycoside acetyltransferase	antibiotic inactivation	Enzymatic modification	nan
+aac(3)-Ia_1_X15852	AAC(3)-Ia	AAC(3)	Aminoglycoside acetyltransferase	antibiotic inactivation	Enzymatic modification	nan
+AAC(3)-Ib/AAC(6')-Ib''	AAC(3)-Ib/AAC(6')-Ib''	"AAC(3);AAC(6')"	Aminoglycoside acetyltransferase	antibiotic inactivation	antibiotic inactivation	"AAC(3);AAC(6')"
+AAC(3)-Ic	AAC(3)-Ic	AAC(3)	Aminoglycoside acetyltransferase	antibiotic inactivation	antibiotic inactivation	AAC(3)
+aac(3)-Ih_1_CP000490	AAC(3)-Ih	AAC(3)	Aminoglycoside acetyltransferase	antibiotic inactivation	Enzymatic modification	nan
+AAC(3)-IIIa	AAC(3)-IIIa	AAC(3)	Aminoglycoside acetyltransferase	antibiotic inactivation	antibiotic inactivation	AAC(3)
+AAC(3)-IVb	AAC(3)-IVb	AAC(3)	Aminoglycoside acetyltransferase	antibiotic inactivation	antibiotic inactivation	AAC(3)
+AAC(3)-IXa	AAC(3)-IXa	AAC(3)	Aminoglycoside acetyltransferase	antibiotic inactivation	antibiotic inactivation	AAC(3)
+AAC(3)-VIIa	AAC(3)-VIIa	AAC(3)	Aminoglycoside acetyltransferase	antibiotic inactivation	antibiotic inactivation	AAC(3)
+aac(3)-XI_1_CTEG01000046	AAC(3)-XI	AAC(3)	Aminoglycoside acetyltransferase	antibiotic inactivation	Enzymatic modification	Chromosomal in Corynebacterium striatum
+AAC(6')-30/AAC(6')-Ib' fusion protein	AAC(6')-30/AAC(6')-Ib'	AAC(6')	Aminoglycoside acetyltransferase	antibiotic inactivation	antibiotic inactivation	AAC(6')
+AAC(6')-33	AAC(6')-33	AAC(6')	Aminoglycoside acetyltransferase	antibiotic inactivation	antibiotic inactivation	AAC(6')
+AAC(6')-I30	AAC(6')-I30	AAC(6')	Aminoglycoside acetyltransferase	antibiotic inactivation	antibiotic inactivation	AAC(6')
+AAC(6')-Iaf	AAC(6')-Iaf	AAC(6')	Aminoglycoside acetyltransferase	antibiotic inactivation	antibiotic inactivation	AAC(6')
+AAC(6')-Iai	AAC(6')-Iai	AAC(6')	Aminoglycoside acetyltransferase	antibiotic inactivation	antibiotic inactivation	AAC(6')
+AAC(6')-Iak	AAC(6')-Iak	AAC(6')	Aminoglycoside acetyltransferase	antibiotic inactivation	antibiotic inactivation	AAC(6')
+aac(6')-Ib_1_M21682	AAC(6')-Ib	AAC(6')	Aminoglycoside acetyltransferase	antibiotic inactivation	Enzymatic modification	Alternative name aacA4, aac(6')-4
+AAC(6')-Ib8	AAC(6')-Ib8	AAC(6')	Aminoglycoside acetyltransferase	antibiotic inactivation	antibiotic inactivation	AAC(6')
+AAC(6')-Iih	AAC(6')-Iih	AAC(6')	Aminoglycoside acetyltransferase	antibiotic inactivation	antibiotic inactivation	AAC(6')
+AAC(6')-Ik	AAC(6')-Ik	AAC(6')	Aminoglycoside acetyltransferase	antibiotic inactivation	antibiotic inactivation	AAC(6')
+AAC(6')-Iz	AAC(6')-Iz	AAC(6')	Aminoglycoside acetyltransferase	antibiotic inactivation	antibiotic inactivation	AAC(6')
+aadA	aadA	ANT(3'')	Aminoglycoside nucleotidyltransferase	antibiotic inactivation	antibiotic inactivation	ANT(3'')
+aadA13	aadA13	ANT(3'')	Aminoglycoside nucleotidyltransferase	antibiotic inactivation	antibiotic inactivation	ANT(3'')
+aadA14	aadA14	ANT(3'')	Aminoglycoside nucleotidyltransferase	antibiotic inactivation	antibiotic inactivation	ANT(3'')
+aadA16	aadA16	ANT(3'')	Aminoglycoside nucleotidyltransferase	antibiotic inactivation	antibiotic inactivation	ANT(3'')
+aadS	aadS	ANT(6)	Aminoglycoside nucleotidyltransferase	antibiotic inactivation	antibiotic inactivation	ANT(6)
+abeM	abeM	multidrug and toxic compound extrusion (MATE) transporter	MATE transporter	antibiotic efflux	antibiotic efflux	multidrug and toxic compound extrusion (MATE) transporter
+Acinetobacter baumannii AmvA	AmvA	major facilitator superfamily (MFS) antibiotic efflux pump	MFS efflux pump	antibiotic efflux	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+acrB	acrB	resistance-nodulation-cell division (RND) antibiotic efflux pump	RND efflux pump	antibiotic efflux	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+ADC-14	ADC-14	ADC beta-lactamase	antibiotic inactivation	antibiotic inactivation	antibiotic inactivation	ADC beta-lactamase without carbapenemase activity
+adeB	adeB	resistance-nodulation-cell division (RND) antibiotic efflux pump	RND efflux pump	antibiotic efflux	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+adeF	adeF	resistance-nodulation-cell division (RND) antibiotic efflux pump	RND efflux pump	antibiotic efflux	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+adeJ	adeJ	resistance-nodulation-cell division (RND) antibiotic efflux pump	RND efflux pump	antibiotic efflux	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+adeS	adeS	resistance-nodulation-cell division (RND) antibiotic efflux pump	RND efflux pump	regulator of efflux pumps	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+AIM-1	AIM-1	AIM beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	AIM beta-lactamase
+almG	almG	lipid A acyltransferase	lipid A acyltransferase	antibiotic target alteration	antibiotic target alteration	lipid A acyltransferase
+ANT(4')-Ia	ANT(4')-Ia	ANT(4')	Aminoglycoside nucleotidyltransferase	antibiotic inactivation	antibiotic inactivation	ANT(4')
+ANT(4')-IIb	ANT(4')-IIb	ANT(4')	Aminoglycoside nucleotidyltransferase	antibiotic inactivation	antibiotic inactivation	ANT(4')
+APH(3')-IIa	APH(3')-IIa	APH(3')	Aminoglycoside phosphotransferase	antibiotic inactivation	antibiotic inactivation	APH(3')
+aph(3')-IIa_1_X57709	APH(3')-IIa	APH(3')	Aminoglycoside phosphotransferase	antibiotic inactivation	Enzymatic modification	nan
+APH(9)-Ib	APH(9)-Ib	APH(9)	Aminoglycoside phosphotransferase	antibiotic inactivation	antibiotic inactivation	APH(9)
+aphA15	aphA15	APH(3')	Aminoglycoside phosphotransferase	antibiotic inactivation	antibiotic inactivation	APH(3')
+ARL-1	ARL-1	ARL Beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	ARL Beta-lactamase
+arlS	arlS	major facilitator superfamily (MFS) antibiotic efflux pump	MFS efflux pump	antibiotic efflux	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+arnA	arnA	pmr phosphoethanolamine transferase	pmr phosphoethanolamine transferase	antibiotic target alteration	antibiotic target alteration	pmr phosphoethanolamine transferase
+bacA	bacA	undecaprenyl pyrophosphate related proteins	undecaprenyl pyrophosphate related proteins	antibiotic target alteration	antibiotic target alteration	undecaprenyl pyrophosphate related proteins
+baeS	baeS	resistance-nodulation-cell division (RND) antibiotic efflux pump	RND efflux pump	regulator of efflux pumps	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BahA	BahA	Bah amidohydrolase	Bah amidohydrolase	antibiotic inactivation	antibiotic inactivation	Bah amidohydrolase
+basS	basS	pmr phosphoethanolamine transferase	pmr phosphoethanolamine transferase	antibiotic target alteration	"antibiotic efflux;antibiotic target alteration"	pmr phosphoethanolamine transferase
+BAT-1	BAT-1	BAT Beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	BAT Beta-lactamase
+bcr-1	bcr-1	major facilitator superfamily (MFS) antibiotic efflux pump	MFS efflux pump	antibiotic efflux	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+BES-1	BES-1	BES Beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	BES Beta-lactamase
+Bifidobacterium adolescentis rpoB conferring resistance to rifampicin	rpoB	rifamycin-resistant beta-subunit of RNA polymerase (rpoB)	rifamycin-resistant beta-subunit of RNA polymerase (rpoB)	antibiotic target alteration	"antibiotic target alteration;antibiotic target replacement"	rifamycin-resistant beta-subunit of RNA polymerase (rpoB)
+BKC-1	BKC-1	BKC Beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	BKC Beta-lactamase
+blaCTX-M-200_1_KY997188	CTX-M-200	CTX-M beta-lactamase	Beta-lactamase	antibiotic inactivation	Enzymatic inactivation	Class A
+blaL_1_NG050597	blaL	class A beta-lactamase	Beta-lactamase	antibiotic inactivation	Enzymatic inactivation	class A beta-lactamase
+blaOXA-21_1_AB626885	OXA-21	OXA beta-lactamase	Beta-lactamase	antibiotic inactivation	Enzymatic inactivation	"Class D;OXA-2-like;;;"
+blaOXA-395_1_AY306133	OXA-395	OXA beta-lactamase	Beta-lactamase	antibiotic inactivation	Enzymatic inactivation	"Class D;OXA-50-like;Natural in Pseudomonas aeruginosa;;The enzyme has weak activity and confers decreased susceptibility but not resistance to the antimicrobials listed. Phenotype expressed in Pseudomonas aeruginosa but not in Escherichia coli."
+blaOXA-493_1_CP007774	OXA-493	OXA beta-lactamase	Beta-lactamase	antibiotic inactivation	Enzymatic inactivation	Chromosomal
+blaSHV-12_1_KF976405	SHV-12	SHV beta-lactamase	Beta-lactamase	antibiotic inactivation	Enzymatic inactivation	Class A
+blaZ_45_CP010941	blaZ	class A beta-lactamase	Beta-lactamase	antibiotic inactivation	Enzymatic inactivation	Class A
+bmr	bmr	major facilitator superfamily (MFS) antibiotic efflux pump	MFS efflux pump	antibiotic efflux	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+BPU-1	BPU-1	BPU Beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	BPU Beta-lactamase
+Brucella suis mprF	mprF	defensin resistant mprF	defensin resistant mprF	antibiotic target alteration	antibiotic target alteration	defensin resistant mprF
+catB11	catB11	chloramphenicol acetyltransferase (CAT)	CAT	antibiotic inactivation	antibiotic inactivation	chloramphenicol acetyltransferase (CAT)
+CblA-1	CblA-1	CblA beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	CblA beta-lactamase
+CcrA beta-lactamase	CcrA	CcrA beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	CcrA beta-lactamase
+cdeA	cdeA	multidrug and toxic compound extrusion (MATE) transporter	MATE transporter	antibiotic efflux	antibiotic efflux	multidrug and toxic compound extrusion (MATE) transporter
+cepA-44_1_U05885	cepA-44	cepA beta-lactamase	Beta-lactamase	antibiotic inactivation	Enzymatic inactivation	Chromosomal
+cepA beta-lactamase	cepA	cepA beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	cepA beta-lactamase
+cfiA1_1_AB087225	cfiA1	CcrA beta-lactamase	Beta-lactamase	antibiotic inactivation	Enzymatic inactivation	Chromosomal metallo beta-lactamase
+cfiA14_1_FM200789	cfiA14	CcrA beta-lactamase	Beta-lactamase	antibiotic inactivation	Enzymatic inactivation	Chromosomal metallo beta-lactamase
+clcD	clcD	Cfr 23S ribosomal RNA methyltransferase	Cfr 23S ribosomal RNA methyltransferase	antibiotic target alteration	antibiotic target alteration	Cfr 23S ribosomal RNA methyltransferase
+cmeB	cmeB	resistance-nodulation-cell division (RND) antibiotic efflux pump	RND efflux pump	antibiotic efflux	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+cmeC	cmeC	resistance-nodulation-cell division (RND) antibiotic efflux pump	RND efflux pump	antibiotic efflux	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+cmlB	cmlB	major facilitator superfamily (MFS) antibiotic efflux pump	MFS efflux pump	antibiotic efflux	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+cmr_1_U43535	cmr	major facilitator superfamily (MFS) antibiotic efflux pump	MFS efflux pump	antibiotic efflux	Increased efflux	Chromosomal in Corynebacterium glutamicum, Eryhtomycin, Tylosin, Rifampicin and Tetracycline resistance when expressed in laboratory Escherichia coli
+CMY-39	CMY-39	CMY beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	CMY beta-lactamase
+cphA7	cphA7	CphA beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	CphA beta-lactamase
+CrcB	CrcB	multidrug and toxic compound extrusion (MATE) transporter	MATE transporter	antibiotic efflux	antibiotic efflux	multidrug and toxic compound extrusion (MATE) transporter
+CRP	CRP	resistance-nodulation-cell division (RND) antibiotic efflux pump	RND efflux pump	antibiotic efflux	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CTX-M-121	CTX-M-121	CTX-M beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	CTX-M beta-lactamase
+CTX-M-130	CTX-M-130	CTX-M beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	CTX-M beta-lactamase
+CTX-M-14	CTX-M-14	CTX-M beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	CTX-M beta-lactamase
+CTX-M-27	CTX-M-27	CTX-M beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	CTX-M beta-lactamase
+determinant of bleomycin resistance	determinant of bleomycin resistance	Bleomycin resistant protein	Bleomycin resistant protein	antibiotic inactivation	antibiotic inactivation	Bleomycin resistant protein
+dfrA29_1_AM237806 	dfrA29	trimethoprim resistant dihydrofolate reductase dfr	trimethoprim resistant dihydrofolate reductase dfr	antibiotic target replacement	nan	nan
+dfrB1	dfrB1	trimethoprim resistant dihydrofolate reductase dfr	trimethoprim resistant dihydrofolate reductase dfr	antibiotic target replacement	antibiotic target replacement	trimethoprim resistant dihydrofolate reductase dfr
+DHA-15	DHA-15	DHA beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	DHA beta-lactamase
+DHA-7	DHA-7	DHA beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	DHA beta-lactamase
+emeA	emeA	multidrug and toxic compound extrusion (MATE) transporter	MATE transporter	antibiotic efflux	antibiotic efflux	multidrug and toxic compound extrusion (MATE) transporter
+emrK	emrK	major facilitator superfamily (MFS) antibiotic efflux pump	MFS efflux pump	antibiotic efflux	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+Enterococcus faecium chloramphenicol acetyltransferase	Enterococcus faecium chloramphenicol acetyltransferase	chloramphenicol acetyltransferase (CAT)	CAT	antibiotic inactivation	antibiotic inactivation	chloramphenicol acetyltransferase (CAT)
+eptA	eptA	pmr phosphoethanolamine transferase	pmr phosphoethanolamine transferase	antibiotic target alteration	antibiotic target alteration	pmr phosphoethanolamine transferase
+Erm(48)	Erm(48)	Erm 23S ribosomal RNA methyltransferase	Erm 23S ribosomal RNA methyltransferase	antibiotic target alteration	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+erm(V)_1_U59450	ErmV	Erm 23S ribosomal RNA methyltransferase	Erm 23S ribosomal RNA methyltransferase	antibiotic target alteration	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"
+evgS	evgS	major facilitator superfamily (MFS) antibiotic efflux pump, resistance-nodulation-cell division (RND) antibiotic efflux pump	"MFS; RND efflux pump"	regulator of efflux pumps	antibiotic efflux	"major facilitator superfamily (MFS) antibiotic efflux pump;resistance-nodulation-cell division (RND) antibiotic efflux pump"
+farA	farA	major facilitator superfamily (MFS) antibiotic efflux pump	MFS efflux pump	antibiotic efflux	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+farB	farB	major facilitator superfamily (MFS) antibiotic efflux pump	MFS efflux pump	antibiotic efflux	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+FEZ-1 beta-lactamase	FEZ-1	FEZ beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	FEZ beta-lactamase
+fomB_1_AB016934	FomB	Fom phosphotransferase family	Fom phosphotransferase family	antibiotic inactivation	Enzymatic inactivation	nan
+fosA_2_AGDM01000012	FosA	fosfomycin thiol transferase	fosfomycin thiol transferase	antibiotic inactivation	Enzymatic inactivation	nan
+FOX-3	FOX-3	FOX beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	FOX beta-lactamase
+GIM-1	GIM-1	GIM beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	GIM beta-lactamase
+gimA	gimA	gimA family macrolide glycosyltransferase	gimA family macrolide glycosyltransferase	antibiotic inactivation	antibiotic inactivation	gimA family macrolide glycosyltransferase
+hmrM	hmrM	multidrug and toxic compound extrusion (MATE) transporter	MATE transporter	antibiotic efflux	antibiotic efflux	multidrug and toxic compound extrusion (MATE) transporter
+hp1181	hp1181	major facilitator superfamily (MFS) antibiotic efflux pump	MFS efflux pump	antibiotic efflux	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+ICR-Mc	ICR-Mc	intrinsic colistin resistant phosphoethanolamine transferase	intrinsic colistin resistant phosphoethanolamine transferase	antibiotic target alteration	antibiotic target alteration	intrinsic colistin resistant phosphoethanolamine transferase
+kgmB_1_S60108	kgmB	16S rRNA methyltransferase	16S rRNA methyltransferase	antibiotic target alteration	Target protection	Chromosomal in Streptomyces tenebrarius
+KHM-1 beta-lactamase	KHM-1	KHM beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	KHM beta-lactamase
+kmr_1_ENA_ACB88605	kmr	16S rRNA methyltransferase	16S rRNA methyltransferase	antibiotic target alteration	Target protection	Chromosomal in Sorangium cellulosum
+LlmA 23S ribosomal RNA methyltransferase	LlmA 23S ribosomal RNA methyltransferase	Llm 23S ribosomal RNA methyltransferase	Llm 23S ribosomal RNA methyltransferase	antibiotic target alteration	antibiotic target alteration	Llm 23S ribosomal RNA methyltransferase
+LMB-1	LMB-1	LMB beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	LMB beta-lactamase
+LpsA	LpsA	Intrinsic peptide antibiotic resistant Lps	Intrinsic peptide antibiotic resistant Lps	reduced permeability to antibiotic	reduced permeability to antibiotic	Intrinsic peptide antibiotic resistant Lps
+LptD	LptD	ATP-binding cassette (ABC) antibiotic efflux pump	ABC efflux pump	antibiotic efflux	antibiotic efflux	ATP-binding cassette (ABC) antibiotic efflux pump
+LRA-12	LRA-12	LRA beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	subclass B3 LRA beta-lactamase
+LRA-13	LRA-13	LRA beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	"class C LRA beta-lactamase;class D LRA beta-lactamase"
+LRA-2	LRA-2	LRA beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	subclass B3 LRA beta-lactamase
+lsa(E)_1_JX560992	lsaE	ABC-F ATP-binding cassette ribosomal protection protein	ABC-F ATPase ribosomal protection protein	antibiotic target protection	Target protection	ABC transporter
+lsaC	lsaC	ABC-F ATP-binding cassette ribosomal protection protein	ABC-F ATPase ribosomal protection protein	antibiotic target protection	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+lsaE	lsaE	ABC-F ATP-binding cassette ribosomal protection protein	ABC-F ATPase ribosomal protection protein	antibiotic target protection	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+macA	macA	ATP-binding cassette (ABC) antibiotic efflux pump	ABC efflux pump	antibiotic efflux	antibiotic efflux	ATP-binding cassette (ABC) antibiotic efflux pump
+macB	macB	ATP-binding cassette (ABC) antibiotic efflux pump	ABC efflux pump	antibiotic efflux	antibiotic efflux	ATP-binding cassette (ABC) antibiotic efflux pump
+marA	marA	"General Bacterial Porin with reduced permeability to beta-lactams; resistance-nodulation-cell division (RND) antibiotic efflux pump"	"General Bacterial Porin; RND efflux pump"	regulator of efflux pumps	"antibiotic efflux;reduced permeability to antibiotic"	"General Bacterial Porin with reduced permeability to beta-lactams;resistance-nodulation-cell division (RND) antibiotic efflux pump"
+MCR-3.2	MCR-3.2	MCR phosphoethanolamine transferase	MCR phosphoethanolamine transferase	antibiotic target alteration	antibiotic target alteration	MCR phosphoethanolamine transferase
+mdf(A)_1_Y08743	mdfA	major facilitator superfamily (MFS) antibiotic efflux pump	MFS efflux pump	antibiotic efflux	Increased efflux	Mdf(A) has broad spectrum specificity including Erythromycin, Tetracycline, Rifampicin, Kanamycin, Chloramphenicol and Ciprofloxacin but it is unclear which level of resistance it confers
+mdsA	mdsA	resistance-nodulation-cell division (RND) antibiotic efflux pump	RND efflux pump	antibiotic efflux	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+mdtF	mdtF	resistance-nodulation-cell division (RND) antibiotic efflux pump	RND efflux pump	antibiotic efflux	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+mdtG	mdtG	major facilitator superfamily (MFS) antibiotic efflux pump	MFS efflux pump	antibiotic efflux	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+mdtH	mdtH	major facilitator superfamily (MFS) antibiotic efflux pump	MFS efflux pump	antibiotic efflux	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+mdtK	mdtK	multidrug and toxic compound extrusion (MATE) transporter	MATE transporter	antibiotic efflux	antibiotic efflux	multidrug and toxic compound extrusion (MATE) transporter
+mdtM	mdtM	major facilitator superfamily (MFS) antibiotic efflux pump	MFS efflux pump	antibiotic efflux	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+mecC2_1_KF955540	mecC2	methicillin resistant PBP2	Beta-lactamase	antibiotic target replacement	Target modification	nan
+mecR1	mecR1	methicillin resistant PBP2	Beta-lactamase	antibiotic target replacement	antibiotic target replacement	methicillin resistant PBP2
+mef(A)_2_U83667	mefA	major facilitator superfamily (MFS) antibiotic efflux pump	MFS efflux pump	antibiotic efflux	Increased efflux	Alternative name mef(I)
+mefB	mefB	major facilitator superfamily (MFS) antibiotic efflux pump	MFS efflux pump	antibiotic efflux	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+mefC	mefC	major facilitator superfamily (MFS) antibiotic efflux pump	MFS efflux pump	antibiotic efflux	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+mepA	mepA	multidrug and toxic compound extrusion (MATE) transporter	MATE transporter	antibiotic efflux	antibiotic efflux	multidrug and toxic compound extrusion (MATE) transporter
+mepR	mepR	multidrug and toxic compound extrusion (MATE) transporter	MATE transporter	regulator of efflux pumps	antibiotic efflux	multidrug and toxic compound extrusion (MATE) transporter
+MexB	mexB	resistance-nodulation-cell division (RND) antibiotic efflux pump	RND efflux pump	antibiotic efflux	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+mexQ	mexQ	resistance-nodulation-cell division (RND) antibiotic efflux pump	RND efflux pump	antibiotic efflux	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+mexV	mexV	resistance-nodulation-cell division (RND) antibiotic efflux pump	RND efflux pump	antibiotic efflux	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+mexX	mexX	resistance-nodulation-cell division (RND) antibiotic efflux pump	RND efflux pump	antibiotic efflux	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+mfpA	mfpA	quinolone resistance protein (qnr)	qnr	antibiotic target protection	antibiotic target protection	quinolone resistance protein (qnr)
+MIR-9	MIR-9	MIR beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	MIR beta-lactamase
+mph(A)_2_U36578	mphA	macrolide phosphotransferase (MPH)	MPH	antibiotic inactivation	Enzymatic inactivation 	"Macrolide phosphotransferase; Alternative name mph(K)"
+mph(C)_2_AF167161	mphC	macrolide phosphotransferase (MPH)	MPH	antibiotic inactivation	Enzymatic inactivation 	"Macrolide phosphotransferase; Alternative name mph(BM); Not functional in S. aureus"
+msrF	msrF	ABC-F ATP-binding cassette ribosomal protection protein	ABC-F ATPase ribosomal protection protein	antibiotic target protection	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+mtrA	mtrA	resistance-nodulation-cell division (RND) antibiotic efflux pump	RND efflux pump	antibiotic efflux	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+MUS-2 beta-lactamase	MUS-2	MUS beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	MUS beta-lactamase
+MuxB	MuxB	resistance-nodulation-cell division (RND) antibiotic efflux pump	RND efflux pump	antibiotic efflux	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+NDM-1	NDM-1	NDM beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	NDM beta-lactamase
+NDM-23	NDM-23	NDM beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	NDM beta-lactamase
+NDM-24	NDM-24	NDM beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	NDM beta-lactamase
+NDM-5	NDM-5	NDM beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	NDM beta-lactamase
+NDM-6	NDM-6	NDM beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	NDM beta-lactamase
+NDM-9	NDM-9	NDM beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	NDM beta-lactamase
+nimE_1_AJ244018	nimE	Nitroimidazole resistance protein	Nitroimidazole resistance protein	nan	nan	likely also resistance to tinidazole, nimorazole, dimetridazole, 6-Amino PA824, ornidazole, megazol, azanidazole
+nimH_1_KX576455	nimH	Nitroimidazole resistance protein	Nitroimidazole resistance protein	nan	nan	Manually predicted - likely also resistance to tinidazole, nimorazole, dimetridazole, 6-Amino PA824, ornidazole, megazol, azanidazole
+NmcR	NmcR	NmcA beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	NmcA beta-lactamase
+norB	norB	major facilitator superfamily (MFS) antibiotic efflux pump	MFS efflux pump	antibiotic efflux	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+OpmH	OpmH	resistance-nodulation-cell division (RND) antibiotic efflux pump	RND efflux pump	antibiotic efflux	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+OprJ	OprJ	resistance-nodulation-cell division (RND) antibiotic efflux pump	RND efflux pump	antibiotic efflux	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+OXA-157	OXA-157	OXA beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	OXA beta-lactamase
+OXA-178	OXA-178	OXA beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	OXA beta-lactamase
+OXA-198	OXA-198	OXA beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	OXA beta-lactamase
+OXA-2	OXA-2	OXA beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	OXA beta-lactamase
+OXA-205	OXA-205	OXA beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	OXA beta-lactamase
+OXA-209	OXA-209	OXA beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	OXA beta-lactamase
+OXA-21	OXA-21	OXA beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	OXA beta-lactamase
+OXA-257	OXA-257	OXA beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	OXA beta-lactamase
+OXA-299	OXA-299	OXA beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	OXA beta-lactamase
+OXA-361	OXA-361	OXA beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	OXA beta-lactamase
+OXA-444	OXA-444	OXA beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	OXA beta-lactamase
+OXA-464	OXA-464	OXA beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	OXA beta-lactamase
+OXA-485	OXA-485	OXA beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	OXA beta-lactamase
+OXA-486	OXA-486	OXA beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	OXA beta-lactamase
+OXA-49	OXA-49	OXA beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	OXA beta-lactamase
+OXA-53	OXA-53	OXA beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	OXA beta-lactamase
+OXA-62	OXA-62	OXA beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	OXA beta-lactamase
+ParS	ParS	resistance-nodulation-cell division (RND) antibiotic efflux pump	RND efflux pump	antibiotic efflux	"antibiotic efflux;reduced permeability to antibiotic"	"Outer Membrane Porin (Opr);resistance-nodulation-cell division (RND) antibiotic efflux pump"
+PDC-1	PDC-1	PDC beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	PDC beta-lactamase
+PDC-76	PDC-76	PDC beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	PDC beta-lactamase
+PDC-8	PDC-8	PDC beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	PDC beta-lactamase
+penA_1_AF515059	penA	penicillin-binding protein 2	Beta-lactamase	antibiotic inactivation	Enzymatic inactivation	Chromosomal pbp-gene
+PmpM	PmpM	multidrug and toxic compound extrusion (MATE) transporter	MATE transporter	antibiotic efflux	antibiotic efflux	multidrug and toxic compound extrusion (MATE) transporter
+pmrF	pmrF	pmr phosphoethanolamine transferase	pmr phosphoethanolamine transferase	antibiotic target alteration	antibiotic target alteration	pmr phosphoethanolamine transferase
+POM-1_1_GU002295	POM-1	Metallo beta-lactamase	Beta-lactamase	antibiotic inactivation	Enzymatic inactivation	Chromosomal metallo beta-lactamase
+Pseudomonas aeruginosa CpxR	CpxR	resistance-nodulation-cell division (RND) antibiotic efflux pump	RND efflux pump	regulator of efflux pumps	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+qacE	qacE	major facilitator superfamily (MFS) antibiotic efflux pump	MFS efflux pump	antibiotic efflux	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+qacH	qacH	small multidrug resistance (SMR) antibiotic efflux pump	SMR efflux pump	antibiotic efflux	antibiotic efflux	small multidrug resistance (SMR) antibiotic efflux pump
+QnrA1	QnrA1	quinolone resistance protein (qnr)	qnr	antibiotic target protection	antibiotic target protection	quinolone resistance protein (qnr)
+QnrA2	QnrA2	quinolone resistance protein (qnr)	qnr	antibiotic target protection	antibiotic target protection	quinolone resistance protein (qnr)
+QnrA5	QnrA5	quinolone resistance protein (qnr)	qnr	antibiotic target protection	antibiotic target protection	quinolone resistance protein (qnr)
+qnrA8_1_KY554783	QnrA8	quinolone resistance protein (qnr)	qnr	antibiotic target protection	Target protection	Likely ciprofloxacin resistance
+QnrB33	QnrB33	quinolone resistance protein (qnr)	qnr	antibiotic target protection	antibiotic target protection	quinolone resistance protein (qnr)
+QnrB46	QnrB46	quinolone resistance protein (qnr)	qnr	antibiotic target protection	antibiotic target protection	quinolone resistance protein (qnr)
+QnrB73	QnrB73	quinolone resistance protein (qnr)	qnr	antibiotic target protection	antibiotic target protection	quinolone resistance protein (qnr)
+QnrS3	QnrS3	quinolone resistance protein (qnr)	qnr	antibiotic target protection	antibiotic target protection	quinolone resistance protein (qnr)
+ramA	ramA	"General Bacterial Porin with reduced permeability to beta-lactams; resistance-nodulation-cell division (RND) antibiotic efflux pump"	"General Bacterial Porin; RND efflux pump"	regulator of efflux pumps	"antibiotic efflux;reduced permeability to antibiotic"	"General Bacterial Porin with reduced permeability to beta-lactams;resistance-nodulation-cell division (RND) antibiotic efflux pump"
+RlmA(II)	RlmA(II)	non-erm 23S ribosomal RNA methyltransferase	non-erm 23S ribosomal RNA methyltransferase	antibiotic target alteration	antibiotic target alteration	non-erm 23S ribosomal RNA methyltransferase (G748)
+Rm3 beta-lactamase	Rm3	Rm3 family beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	Rm3 family beta-lactamase
+rmtD2	rmtD2	16S rRNA methyltransferase	16S rRNA methyltransferase	antibiotic target alteration	antibiotic target alteration	16S rRNA methyltransferase (G1405)
+rmtF	rmtF	16S rRNA methyltransferase	16S rRNA methyltransferase	antibiotic target alteration	antibiotic target alteration	16S rRNA methyltransferase (G1405)
+rosB	rosB	major facilitator superfamily (MFS) antibiotic efflux pump	MFS efflux pump	antibiotic efflux	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+rphA	rphA	rifampin phosphotransferase	rifampin phosphotransferase	antibiotic inactivation	antibiotic inactivation	rifampin phosphotransferase
+RSA-2	RSA-2	RSA beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	RSA beta-lactamase
+SatA	SatA	streptothricin acetyltransferase (SAT)	SAT	antibiotic inactivation	antibiotic inactivation	streptothricin acetyltransferase (SAT)
+sdiA	sdiA	resistance-nodulation-cell division (RND) antibiotic efflux pump	RND efflux pump	regulator of efflux pumps	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+SHV-12	SHV-12	SHV beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	SHV beta-lactamase
+SHV-50	SHV-50	SHV beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	SHV beta-lactamase
+SHV-52	SHV-52	SHV beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	SHV beta-lactamase
+smeS	smeS	resistance-nodulation-cell division (RND) antibiotic efflux pump	RND efflux pump	antibiotic efflux	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+SPG-1	SPG-1	SPG beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	SPG beta-lactamase
+sta	sta	streptothricin acetyltransferase (SAT)	SAT	antibiotic inactivation	antibiotic inactivation	streptothricin acetyltransferase (SAT)
+sul1_11_DQ914960	sul1	sulfonamide resistant sul	sulfonamide resistant sul	antibiotic target replacement	nan	nan
+sul1_7_FJ715937	sul1	sulfonamide resistant sul	sulfonamide resistant sul	antibiotic target replacement	nan	nan
+TaeA	TaeA	ATP-binding cassette (ABC) antibiotic efflux pump	ABC efflux pump	antibiotic efflux	antibiotic efflux	ATP-binding cassette (ABC) antibiotic efflux pump
+TEM-123	TEM-123	TEM beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	TEM beta-lactamase
+TEM-128	TEM-128	TEM beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	TEM beta-lactamase
+TEM-196	TEM-196	TEM beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	TEM beta-lactamase
+tet(33)_2_DQ390458	tet(33)	major facilitator superfamily (MFS) antibiotic efflux pump	MFS efflux pump	antibiotic efflux	Increased efflux	nan
+tet(34)_1_AB061440	tet(34)	tetracycline inactivation enzyme	tetracycline inactivation enzyme	antibiotic inactivation	Enzymatic inactivation	nan
+tet(35)	tet(35)	ATP-binding cassette (ABC) antibiotic efflux pump	ABC efflux pump	antibiotic efflux	antibiotic efflux	ATP-binding cassette (ABC) antibiotic efflux pump
+tet(40)_1_FJ158002	tet(40)	major facilitator superfamily (MFS) antibiotic efflux pump	MFS efflux pump	antibiotic efflux	Increased efflux	nan
+tet(41)	tet(41)	major facilitator superfamily (MFS) antibiotic efflux pump	MFS efflux pump	antibiotic efflux	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+tet(44)_1_NZ_ABDU01000081	tet(44)	tetracycline-resistant ribosomal protection protein	tetracycline-resistant ribosomal protection protein	antibiotitc target protection	Target protection	nan
+tet(54)	tet(54)	tetracycline inactivation enzyme	tetracycline inactivation enzyme	antibiotic inactivation	antibiotic inactivation	tetracycline inactivation enzyme
+tet(A)	tet(A)	major facilitator superfamily (MFS) antibiotic efflux pump	MFS efflux pump	antibiotic efflux	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+tet(A)_2_X00006	tet(A)	major facilitator superfamily (MFS) antibiotic efflux pump	MFS efflux pump	antibiotic efflux	Increased efflux	nan
+tet(A)_3_AY196695	tet(A)	major facilitator superfamily (MFS) antibiotic efflux pump	MFS efflux pump	antibiotic efflux	Increased efflux	nan
+tet(C)_3_AF055345	tet(C)	major facilitator superfamily (MFS) antibiotic efflux pump	MFS efflux pump	antibiotic efflux	Increased efflux	nan
+tet(J)	tet(J)	major facilitator superfamily (MFS) antibiotic efflux pump	MFS efflux pump	antibiotic efflux	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+tet(J)_1_ACLE01000065	tet(J)	major facilitator superfamily (MFS) antibiotic efflux pump	MFS efflux pump	antibiotic efflux	Increased efflux	nan
+tet(M)_4_X75073	tet(M)	tetracycline-resistant ribosomal protection protein	tetracycline-resistant ribosomal protection protein	antibiotic target protection	Target protection	nan
+tet(O/32/O)_2_AJ295238	tet(O/32/O)	tetracycline-resistant ribosomal protection protein	tetracycline-resistant ribosomal protection protein	antibiotic target protection	Target protection	nan
+tet(O/W)_1_AM889118	tet(O/W)	tetracycline-resistant ribosomal protection protein	tetracycline-resistant ribosomal protection protein	antibiotic target protection	Target protection	nan
+tet(Q)_2_X58717	tet(Q)	tetracycline-resistant ribosomal protection protein	tetracycline-resistant ribosomal protection protein	antibiotic target protection	Target protection	nan
+tet(T)_2_AY660530	tet(T)	tetracycline-resistant ribosomal protection protein	tetracycline-resistant ribosomal protection protein	antibiotic target protection	Target protection	nan
+tet(W)_2_AY049983	tet(W)	tetracycline-resistant ribosomal protection protein	tetracycline-resistant ribosomal protection protein	antibiotic target protection	Target protection	nan
+tet(W/32/O)_1_AM710601	tet(W/32/O)	tetracycline-resistant ribosomal protection protein	tetracycline-resistant ribosomal protection protein	antibiotic target protection	Target protection	nan
+tet(W/N/W)	tet(W/N/W)	tetracycline-resistant ribosomal protection protein	tetracycline-resistant ribosomal protection protein	antibiotic target protection	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+tet(X)_1_GU014535	tet(X)	tetracycline inactivation enzyme	tetracycline inactivation enzyme	antibiotic inactivation	Enzymatic inactivation	nan
+Tet(X5)	tet(X5)	tetracycline inactivation enzyme	tetracycline inactivation enzyme	antibiotic inactivation	antibiotic inactivation	tetracycline inactivation enzyme
+tet37	tet(37)	tetracycline inactivation enzyme	tetracycline inactivation enzyme	antibiotic inactivation	antibiotic inactivation	tetracycline inactivation enzyme
+tetA(46)	tetA(46)	ATP-binding cassette (ABC) antibiotic efflux pump	ABC efflux pump	antibiotic efflux	antibiotic efflux	ATP-binding cassette (ABC) antibiotic efflux pump
+tetA(60)	tetA(60)	ATP-binding cassette (ABC) antibiotic efflux pump	ABC efflux pump	antibiotic efflux	antibiotic efflux	ATP-binding cassette (ABC) antibiotic efflux pump
+tetB(46)	tetB(46)	ATP-binding cassette (ABC) antibiotic efflux pump	ABC efflux pump	antibiotic efflux	antibiotic efflux	ATP-binding cassette (ABC) antibiotic efflux pump
+tetW	tet(W)	tetracycline-resistant ribosomal protection protein	tetracycline-resistant ribosomal protection protein	antibiotic target protection	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+tetX	tet(X)	tetracycline inactivation enzyme	tetracycline inactivation enzyme	antibiotic inactivation	antibiotic inactivation	tetracycline inactivation enzyme
+TLA-1	TLA-1	TLA beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	TLA beta-lactamase
+TLA-2	TLA-2	TLA beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	TLA beta-lactamase
+tolC	tolC	"resistance-nodulation-cell division (RND) antibiotic efflux pump; major facilitator superfamily (MFS) antibiotic efflux pump; ATP-binding cassette (ABC) antibiotic efflux pump"	"RND; MFS; ABC efflux pump"	antibiotic efflux	antibiotic efflux	"ATP-binding cassette (ABC) antibiotic efflux pump;major facilitator superfamily (MFS) antibiotic efflux pump;resistance-nodulation-cell division (RND) antibiotic efflux pump"
+tsnR	tsnR	non-erm 23S ribosomal RNA methyltransferase	non-erm 23S ribosomal RNA methyltransferase	antibiotic target alteration	antibiotic target alteration	non-erm 23S ribosomal RNA methyltransferase (A1067)
+TUS-1 beta-lactamase	TUS-1	TUS beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	TUS beta-lactamase
+Txr	Txr	ATP-binding cassette (ABC) antibiotic efflux pump	ABC efflux pump	regulator of efflux pumps	antibiotic efflux	ATP-binding cassette (ABC) antibiotic efflux pump
+ugd	ugd	pmr phosphoethanolamine transferase	pmr phosphoethanolamine transferase	antibiotic target alteration	antibiotic target alteration	pmr phosphoethanolamine transferase
+vanA	vanA	"glycopeptide resistance gene cluster;van ligase"	glycopeptide resistance gene cluster	antibiotic target alteration	antibiotic target alteration	"glycopeptide resistance gene cluster;van ligase"
+VanC2XY_3_EU151757	vanC2XY	"glycopeptide resistance gene cluster;van ligase"	glycopeptide resistance gene cluster	antibiotic target alteration	Target modification	nan
+VanC4XY_1_EU151752	vanC4XY	"glycopeptide resistance gene cluster;van ligase"	glycopeptide resistance gene cluster	antibiotic target alteration	Target modification	nan
+vanD	vanD	"glycopeptide resistance gene cluster;van ligase"	glycopeptide resistance gene cluster	antibiotic target alteration	antibiotic target alteration	"glycopeptide resistance gene cluster;van ligase"
+vanE	vanE	"glycopeptide resistance gene cluster;van ligase"	glycopeptide resistance gene cluster	antibiotic target alteration	antibiotic target alteration	"glycopeptide resistance gene cluster;van ligase"
+vanHB	vanHB	"glycopeptide resistance gene cluster;vanH"	glycopeptide resistance gene cluster	antibiotic target alteration	antibiotic target alteration	"glycopeptide resistance gene cluster;vanH"
+VanHBX_1_AF192329	vanHBX	"glycopeptide resistance gene cluster;vanH"	glycopeptide resistance gene cluster	antibiotic target alteration	Target modification	nan
+vanHD	vanHD	"glycopeptide resistance gene cluster;vanH"	glycopeptide resistance gene cluster	antibiotic target alteration	antibiotic target alteration	"glycopeptide resistance gene cluster;vanH"
+VanHDX_5_AY489045	vanHDX	"glycopeptide resistance gene cluster;vanH"	glycopeptide resistance gene cluster	antibiotic target alteration	Target modification	nan
+VanHDX_6_DQ172830	vanHDX	"glycopeptide resistance gene cluster;vanH"	glycopeptide resistance gene cluster	antibiotic target alteration	Target modification	nan
+VanHOX_1_KF478993	vanHOX	"glycopeptide resistance gene cluster;vanH"	glycopeptide resistance gene cluster	antibiotic target alteration	Target modification	nan
+vanJ	vanJ	vanJ membrane protein	vanJ membrane protein	antibiotic target alteration	antibiotic target alteration	vanJ membrane protein
+vanKI	vanKI	"glycopeptide resistance gene cluster;vanK"	glycopeptide resistance gene cluster	antibiotic target alteration	antibiotic target alteration	"glycopeptide resistance gene cluster;vanK"
+vanRC	vanRC	"glycopeptide resistance gene cluster;vanR"	glycopeptide resistance gene cluster	antibiotic target alteration	antibiotic target alteration	"glycopeptide resistance gene cluster;vanR"
+vanRF	vanRF	"glycopeptide resistance gene cluster;vanR"	glycopeptide resistance gene cluster	antibiotic target alteration	antibiotic target alteration	"glycopeptide resistance gene cluster;vanR"
+vanSC	vanSC	"glycopeptide resistance gene cluster;vanS"	glycopeptide resistance gene cluster	antibiotic target alteration	antibiotic target alteration	"glycopeptide resistance gene cluster;vanS"
+vanSO	vanSO	"glycopeptide resistance gene cluster;vanS"	glycopeptide resistance gene cluster	antibiotic target alteration	antibiotic target alteration	"glycopeptide resistance gene cluster;vanS"
+vanTE	vanTE	"glycopeptide resistance gene cluster;vanT"	glycopeptide resistance gene cluster	antibiotic target alteration	antibiotic target alteration	"glycopeptide resistance gene cluster;vanT"
+vanXO	vanXO	"glycopeptide resistance gene cluster;vanX"	glycopeptide resistance gene cluster	antibiotic target alteration	antibiotic target alteration	"glycopeptide resistance gene cluster;vanX"
+vatA	vatA	streptogramin vat acetyltransferase	streptogramin vat acetyltransferase	antibiotic inactivation	antibiotic inactivation	streptogramin vat acetyltransferase
+vatD	vatD	streptogramin vat acetyltransferase	streptogramin vat acetyltransferase	antibiotic inactivation	antibiotic inactivation	streptogramin vat acetyltransferase
+vgaC	vgaC	ABC-F ATP-binding cassette ribosomal protection protein	ABC-F ATPase ribosomal protection protein	antibiotic target protection	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+VIM-1	VIM-1	VIM beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	VIM beta-lactamase
+VIM-24	VIM-24	VIM beta-lactamase	Beta-lactamase	antibiotic inactivation	antibiotic inactivation	VIM beta-lactamase
+vmlR	vmlR	ABC-F ATP-binding cassette ribosomal protection protein	ABC-F ATPase ribosomal protection protein	antibiotic target protection	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+NA	NA	NA	NA	NA		

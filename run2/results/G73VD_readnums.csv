@@ -1,0 +1,13 @@
+Sample	Up/Down	Total reads in sample	Matching reads
+Klebsiella_K390_GEN_Path_rep2	Downstream	0	0
+Klebsiella_K390_MOX_Path_rep2	Downstream	0	0
+Klebsiella_K390_MER_Path_rep2	Downstream	0	0
+Klebsiella_K390_FOX_Path_rep2	Downstream	0	0
+Klebsiella_K390_CFD_Path_rep2	Downstream	0	0
+Klebsiella_K390_DOX_Path_rep2	Downstream	0	0
+Klebsiella_K390_MER_Path_rep2	Upstream	3283	2983
+Klebsiella_K390_GEN_Path_rep2	Upstream	4270	3844
+Klebsiella_K390_CFD_Path_rep2	Upstream	4337	3821
+Klebsiella_K390_FOX_Path_rep2	Upstream	4980	4298
+Klebsiella_K390_MOX_Path_rep2	Upstream	5413	4725
+Klebsiella_K390_DOX_Path_rep2	Upstream	5534	4841

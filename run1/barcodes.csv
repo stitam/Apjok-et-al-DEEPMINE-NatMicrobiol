@@ -1,0 +1,139 @@
+Name	Bc 1	Bc 2	Forward primer	Forward primer barcode type	Reverse primer	Reverse primer barcode type	Species	Library name	Antibiotic name
+Ecoli_soil_APS	ATCGTACG	AACTCTCG	UF501	i5	UR701	i7	E. coli BW	5M soil	APS
+Ecoli_soil_CEF	ATCGTACG	ACTATGTC	UF501	i5	UR702	i7	E. coli BW	5M soil	CEF
+Ecoli_soil_OMA	ATCGTACG	AGTAGCGT	UF501	i5	UR703	i7	E. coli BW	5M soil	OMA
+Ecoli_soil_GEP	ATCGTACG	CAGTGAGT	UF501	i5	UR704	i7	E. coli BW	5M soil	GEP
+Ecoli_soil_ERA	ATCGTACG	CGTACTCA	UF501	i5	UR705	i7	E. coli BW	5M soil	ERA
+Ecoli_soil_DEL	ATCGTACG	CTACGCAG	UF501	i5	UR706	i7	E. coli BW	5M soil	DEL
+Ecoli_soil_CFD	ATCGTACG	GGAGACTA	UF501	i5	UR707	i7	E. coli BW	5M soil	CFD
+Ecoli_soil_PXB	ATCGTACG	GTCGCTCG	UF501	i5	UR708	i7	E. coli BW	5M soil	PXB
+Ecoli_soil_MOX	ATCGTACG	GTCGTAGT	UF501	i5	UR709	i7	E. coli BW	5M soil	MOX
+Ecoli_soil_DOX	ATCGTACG	TAGCAGAC	UF501	i5	UR710	i7	E. coli BW	5M soil	DOX
+Ecoli_soil_FOX	ATCGTACG	TCATAGAC	UF501	i5	UR711	i7	E. coli BW	5M soil	FOX
+Ecoli_soil_MER	ATCGTACG	TCGCTATA	UF501	i5	UR712	i7	E. coli BW	5M soil	MER
+Ecoli_soil_SUL	ACTATCTG	AACTCTCG	UF502	i5	UR701	i7	E. coli BW	5M soil	SUL
+Ecoli_gut_CFD	ACTATCTG	ACTATGTC	UF502	i5	UR702	i7	E. coli BW	2M gut	CFD
+Ecoli_gut_DOX	ACTATCTG	AGTAGCGT	UF502	i5	UR703	i7	E. coli BW	2M gut	DOX
+Ecoli_gut_MOX	ACTATCTG	CAGTGAGT	UF502	i5	UR704	i7	E. coli BW	2M gut	MOX
+Ecoli_gut_PXB	ACTATCTG	CGTACTCA	UF502	i5	UR705	i7	E. coli BW	2M gut	PXB
+Ecoli_gut_CEF	ACTATCTG	CTACGCAG	UF502	i5	UR706	i7	E. coli BW	2M gut	CEF
+Ecoli_gut_GEP	ACTATCTG	GGAGACTA	UF502	i5	UR707	i7	E. coli BW	2M gut	GEP
+Ecoli_gut_OMA	ACTATCTG	GTCGCTCG	UF502	i5	UR708	i7	E. coli BW	2M gut	OMA
+Ecoli_gut_ERA	ACTATCTG	GTCGTAGT	UF502	i5	UR709	i7	E. coli BW	2M gut	ERA
+Ecoli_gut_DEL	ACTATCTG	TAGCAGAC	UF502	i5	UR710	i7	E. coli BW	2M gut	DEL
+Ecoli_gut_MER	ACTATCTG	TCATAGAC	UF502	i5	UR711	i7	E. coli BW	2M gut	MER
+Ecoli_patho_PXB	ACTATCTG	TCGCTATA	UF502	i5	UR712	i7	E. coli BW	6Mpatho	PXB
+Ecoli_patho_MOX	TAGCGAGT	AACTCTCG	UF503	i5	UR701	i7	E. coli BW	6M patho	MOX
+Ecoli_patho_CFD	TAGCGAGT	ACTATGTC	UF503	i5	UR702	i7	E. coli BW	6M patho	CFD
+Ecoli_patho_ERA	TAGCGAGT	AGTAGCGT	UF503	i5	UR703	i7	E. coli BW	6M patho	ERA
+Ecoli_patho_OMA	TAGCGAGT	CAGTGAGT	UF503	i5	UR704	i7	E. coli BW	6M patho	OMA
+Ecoli_patho_DEL	TAGCGAGT	CGTACTCA	UF503	i5	UR705	i7	E. coli BW	6M patho	DEL
+Ecoli_patho_GEP	TAGCGAGT	CTACGCAG	UF503	i5	UR706	i7	E. coli BW	6M patho	GEP
+Ecoli_patho_FOX	TAGCGAGT	GGAGACTA	UF503	i5	UR707	i7	E. coli BW	6M patho	FOX
+Ecoli_patho_DOX	TAGCGAGT	GTCGCTCG	UF503	i5	UR708	i7	E. coli BW	6M patho	DOX
+Ecoli_patho_MER	TAGCGAGT	GTCGTAGT	UF503	i5	UR709	i7	E. coli BW	6M patho	MER
+Ecoli_patho_GEN	TAGCGAGT	TAGCAGAC	UF503	i5	UR710	i7	E. coli BW	6M patho	GEN
+Ecoli_patho_CEF	TAGCGAGT	TCATAGAC	UF503	i5	UR711	i7	E. coli BW	6M patho	CEF
+Ecoli_patho_SUL	TAGCGAGT	TCGCTATA	UF503	i5	UR712	i7	E. coli BW	6M patho	SUL
+Shigella_patho_MOX	CTGCGTGT	AACTCTCG	UF504	i5	UR701	i7	Shigella sonnei HNCMB 25021	6M patho	MOX
+Shigella_patho_CFD	CTGCGTGT	ACTATGTC	UF504	i5	UR702	i7	Shigella sonnei HNCMB 25021	6M patho	CFD
+Shigella_patho_FOX	CTGCGTGT	AGTAGCGT	UF504	i5	UR703	i7	Shigella sonnei HNCMB 25021	6M patho	FOX
+Shigella_patho_DOX	CTGCGTGT	CAGTGAGT	UF504	i5	UR704	i7	Shigella sonnei HNCMB 25021	6M patho	DOX
+Shigella_patho_MER	CTGCGTGT	CGTACTCA	UF504	i5	UR705	i7	Shigella sonnei HNCMB 25021	6M patho	MER
+Shigella_patho_GEN	CTGCGTGT	CTACGCAG	UF504	i5	UR706	i7	Shigella sonnei HNCMB 25021	6M patho	GEN
+Shigella_patho_SUL	CTGCGTGT	GGAGACTA	UF504	i5	UR707	i7	Shigella sonnei HNCMB 25021	6M patho	SUL
+Shigella_patho_ERA	CTGCGTGT	GTCGCTCG	UF504	i5	UR708	i7	Shigella sonnei HNCMB 25021	6M patho	ERA
+Shigella_patho_CEF	CTGCGTGT	GTCGTAGT	UF504	i5	UR709	i7	Shigella sonnei HNCMB 25021	6M patho	CEF
+Shigella_patho_DEL	CTGCGTGT	TAGCAGAC	UF504	i5	UR710	i7	Shigella sonnei HNCMB 25021	6M patho	DEL
+Shigella_patho_GEP	CTGCGTGT	TCATAGAC	UF504	i5	UR711	i7	Shigella sonnei HNCMB 25021	6M patho	GEP
+Shigella_patho_OMA	CTGCGTGT	TCGCTATA	UF504	i5	UR712	i7	Shigella sonnei HNCMB 25021	6M patho	OMA
+Shigella_gut_CFD	TCATCGAG	AACTCTCG	UF505	i5	UR701	i7	Shigella sonnei HNCMB 25021	2M gut	CFD
+Shigella_gut_DOX	TCATCGAG	ACTATGTC	UF505	i5	UR702	i7	Shigella sonnei HNCMB 25021	2M gut	DOX
+Shigella_gut_MER	TCATCGAG	AGTAGCGT	UF505	i5	UR703	i7	Shigella sonnei HNCMB 25021	2M gut	MER
+Shigella_gut_SUL	TCATCGAG	CAGTGAGT	UF505	i5	UR704	i7	Shigella sonnei HNCMB 25021	2M gut	SUL
+Shigella_gut_ERA	TCATCGAG	CGTACTCA	UF505	i5	UR705	i7	Shigella sonnei HNCMB 25021	2M gut	ERA
+Shigella_gut_CEF	TCATCGAG	CTACGCAG	UF505	i5	UR706	i7	Shigella sonnei HNCMB 25021	2M gut	CEF
+Shigella_gut_APS	TCATCGAG	GGAGACTA	UF505	i5	UR707	i7	Shigella sonnei HNCMB 25021	2M gut	APS
+Shigella_soil_CFD	TCATCGAG	GTCGCTCG	UF505	i5	UR708	i7	Shigella sonnei HNCMB 25021	5M soil	CFD
+Shigella_soil_FOX	TCATCGAG	GTCGTAGT	UF505	i5	UR709	i7	Shigella sonnei HNCMB 25021	5M soil	FOX
+Shigella_soil_MER	TCATCGAG	TAGCAGAC	UF505	i5	UR710	i7	Shigella sonnei HNCMB 25021	5M soil	MER
+Shigella_soil_GEN	TCATCGAG	TCATAGAC	UF505	i5	UR711	i7	Shigella sonnei HNCMB 25021	5M soil	GEN
+Shigella_soil_SUL	TCATCGAG	TCGCTATA	UF505	i5	UR712	i7	Shigella sonnei HNCMB 25021	5M soil	SUL
+Shigella_soil_ERA	CGTGAGTG	AACTCTCG	UF506	i5	UR701	i7	Shigella sonnei HNCMB 25021	5M soil	ERA
+Shigella_soil_CEF	CGTGAGTG	ACTATGTC	UF506	i5	UR702	i7	Shigella sonnei HNCMB 25021	5M soil	CEF
+Shigella_soil_DEL	CGTGAGTG	AGTAGCGT	UF506	i5	UR703	i7	Shigella sonnei HNCMB 25021	5M soil	DEL
+Shigella_soil_GEP	CGTGAGTG	CAGTGAGT	UF506	i5	UR704	i7	Shigella sonnei HNCMB 25021	5M soil	GEP
+Shigella_soil_APS	CGTGAGTG	CGTACTCA	UF506	i5	UR705	i7	Shigella sonnei HNCMB 25021	5M soil	APS
+Shigella_soil_OMA	CGTGAGTG	CTACGCAG	UF506	i5	UR706	i7	Shigella sonnei HNCMB 25021	5M soil	OMA
+Salmonella_gut_APS	CGTGAGTG	GGAGACTA	UF506	i5	UR707	i7	Salmonella enterica LT2	2M gut	APS
+Salmonella_gut_ERA	CGTGAGTG	GTCGCTCG	UF506	i5	UR708	i7	Salmonella enterica LT2	2M gut	ERA
+Salmonella_gut_OMA	CGTGAGTG	GTCGTAGT	UF506	i5	UR709	i7	Salmonella enterica LT2	2M gut	OMA
+Salmonella_gut_GEP	CGTGAGTG	TAGCAGAC	UF506	i5	UR710	i7	Salmonella enterica LT2	2M gut	GEP
+Salmonella_gut_DEL	CGTGAGTG	TCATAGAC	UF506	i5	UR711	i7	Salmonella enterica LT2	2M gut	DEL
+Salmonella_gut_GEN	CGTGAGTG	TCGCTATA	UF506	i5	UR712	i7	Salmonella enterica LT2	2M gut	GEN
+Salmonella_gut_CEF	GGATATCT	AACTCTCG	UF507	i5	UR701	i7	Salmonella enterica LT2	2M gut	CEF
+Salmonella_gut_CFD	GGATATCT	ACTATGTC	UF507	i5	UR702	i7	Salmonella enterica LT2	2M gut	CFD
+Salmonella_gut_DOX	GGATATCT	AGTAGCGT	UF507	i5	UR703	i7	Salmonella enterica LT2	2M gut	DOX
+Salmonella_gut_MOX	GGATATCT	CAGTGAGT	UF507	i5	UR704	i7	Salmonella enterica LT2	2M gut	MOX
+Salmonella_gut_FOX	GGATATCT	CGTACTCA	UF507	i5	UR705	i7	Salmonella enterica LT2	2M gut	FOX
+Salmonella_patho_APS	GGATATCT	CTACGCAG	UF507	i5	UR706	i7	Salmonella enterica LT2	6M patho	APS
+Salmonella_patho_ERA	GGATATCT	GGAGACTA	UF507	i5	UR707	i7	Salmonella enterica LT2	6M patho	ERA
+Salmonella_patho_OMA	GGATATCT	GTCGCTCG	UF507	i5	UR708	i7	Salmonella enterica LT2	6M patho	OMA
+Salmonella_patho_GEP	GGATATCT	GTCGTAGT	UF507	i5	UR709	i7	Salmonella enterica LT2	6M patho	GEP
+Salmonella_patho_MER	GGATATCT	TAGCAGAC	UF507	i5	UR710	i7	Salmonella enterica LT2	6M patho	MER
+Salmonella_patho_DEL	GGATATCT	TCATAGAC	UF507	i5	UR711	i7	Salmonella enterica LT2	6M patho	DEL
+Salmonella_patho_GEN	GGATATCT	TCGCTATA	UF507	i5	UR712	i7	Salmonella enterica LT2	6M patho	GEN
+Salmonella_patho_CEF	GACACCGT	AACTCTCG	UF508	i5	UR701	i7	Salmonella enterica LT2	6M patho	CEF
+Salmonella_patho_CFD	GACACCGT	ACTATGTC	UF508	i5	UR702	i7	Salmonella enterica LT2	6M patho	CFD
+Salmonella_patho_DOX	GACACCGT	AGTAGCGT	UF508	i5	UR703	i7	Salmonella enterica LT2	6M patho	DOX
+Salmonella_patho_SUL	GACACCGT	CAGTGAGT	UF508	i5	UR704	i7	Salmonella enterica LT2	6M patho	SUL
+Salmonella_patho_MOX	GACACCGT	CGTACTCA	UF508	i5	UR705	i7	Salmonella enterica LT2	6M patho	MOX
+Salmonella_patho_FOX	GACACCGT	CTACGCAG	UF508	i5	UR706	i7	Salmonella enterica LT2	6M patho	FOX
+Salmonella_soil_APS	GACACCGT	GGAGACTA	UF508	i5	UR707	i7	Salmonella enterica LT2	5M soil	APS
+Salmonella_soil_ERA	GACACCGT	GTCGCTCG	UF508	i5	UR708	i7	Salmonella enterica LT2	5M soil	ERA
+Salmonella_soil_OMA	GACACCGT	GTCGTAGT	UF508	i5	UR709	i7	Salmonella enterica LT2	5M soil	OMA
+Salmonella_soil_GEP	GACACCGT	TAGCAGAC	UF508	i5	UR710	i7	Salmonella enterica LT2	5M soil	GEP
+Salmonella_soil_DEL	GACACCGT	TCATAGAC	UF508	i5	UR711	i7	Salmonella enterica LT2	5M soil	DEL
+Salmonella_soil_GEN	GACACCGT	TCGCTATA	UF508	i5	UR712	i7	Salmonella enterica LT2	5M soil	GEN
+Salmonella_soil_CEF	CTACTATA	AACTCTCG	UF509	i5	UR701	i7	Salmonella enterica LT2	5M soil	CEF
+Salmonella_soil_CFD	CTACTATA	ACTATGTC	UF509	i5	UR702	i7	Salmonella enterica LT2	5M soil	CFD
+Salmonella_soil_DOX	CTACTATA	AGTAGCGT	UF509	i5	UR703	i7	Salmonella enterica LT2	5M soil	DOX
+Salmonella_soil_MOX	CTACTATA	CAGTGAGT	UF509	i5	UR704	i7	Salmonella enterica LT2	5M soil	MOX
+Salmonella_soil_FOX	CTACTATA	CGTACTCA	UF509	i5	UR705	i7	Salmonella enterica LT2	5M soil	FOX
+Klebsiella_patho_MOX	CTACTATA	CTACGCAG	UF509	i5	UR706	i7	Klebsiella pneumoniae K390	6M patho	MOX
+Klebsiella_patho_CFD	CTACTATA	GGAGACTA	UF509	i5	UR707	i7	Klebsiella pneumoniae K390	6M patho	CFD
+Klebsiella_patho_FOX	CTACTATA	GTCGCTCG	UF509	i5	UR708	i7	Klebsiella pneumoniae K390	6M patho	FOX
+Klebsiella_patho_DOX	CTACTATA	GTCGTAGT	UF509	i5	UR709	i7	Klebsiella pneumoniae K390	6M patho	DOX
+Klebsiella_patho_MER	CTACTATA	TAGCAGAC	UF509	i5	UR710	i7	Klebsiella pneumoniae K390	6M patho	MER
+Klebsiella_patho_GEN	CTACTATA	TCATAGAC	UF509	i5	UR711	i7	Klebsiella pneumoniae K390	6M patho	GEN
+Klebsiella_patho_SUL	CTACTATA	TCGCTATA	UF509	i5	UR712	i7	Klebsiella pneumoniae K390	6M patho	SUL
+Klebsiella_patho_ERA	CGTTACTA	AACTCTCG	UF510	i5	UR701	i7	Klebsiella pneumoniae K390	6M patho	ERA
+Klebsiella_patho_CEF	CGTTACTA	ACTATGTC	UF510	i5	UR702	i7	Klebsiella pneumoniae K390	6M patho	CEF
+Klebsiella_patho_DEL	CGTTACTA	AGTAGCGT	UF510	i5	UR703	i7	Klebsiella pneumoniae K390	6M patho	DEL
+Klebsiella_patho_GEP	CGTTACTA	CAGTGAGT	UF510	i5	UR704	i7	Klebsiella pneumoniae K390	6M patho	GEP
+Klebsiella_patho_OMA	CGTTACTA	CGTACTCA	UF510	i5	UR705	i7	Klebsiella pneumoniae K390	6M patho	OMA
+Klebsiella_gut_MOX	CGTTACTA	CTACGCAG	UF510	i5	UR706	i7	Klebsiella pneumoniae K390	2M gut	MOX
+Klebsiella_gut_CFD	CGTTACTA	GGAGACTA	UF510	i5	UR707	i7	Klebsiella pneumoniae K390	2M gut	CFD
+Klebsiella_gut_FOX	CGTTACTA	GTCGCTCG	UF510	i5	UR708	i7	Klebsiella pneumoniae K390	2M gut	FOX
+Klebsiella_gut_DOX	CGTTACTA	GTCGTAGT	UF510	i5	UR709	i7	Klebsiella pneumoniae K390	2M gut	DOX
+Klebsiella_gut_GEN	CGTTACTA	TAGCAGAC	UF510	i5	UR710	i7	Klebsiella pneumoniae K390	2M gut	GEN
+Klebsiella_gut_SUL	CGTTACTA	TCATAGAC	UF510	i5	UR711	i7	Klebsiella pneumoniae K390	2M gut	SUL
+Klebsiella_gut_ERA	CGTTACTA	TCGCTATA	UF510	i5	UR712	i7	Klebsiella pneumoniae K390	2M gut	ERA
+Klebsiella_gut_CEF	AGAGTCAC	AACTCTCG	UF511	i5	UR701	i7	Klebsiella pneumoniae K390	2M gut	CEF
+Klebsiella_gut_DEL	AGAGTCAC	ACTATGTC	UF511	i5	UR702	i7	Klebsiella pneumoniae K390	2M gut	DEL
+Klebsiella_gut_GEP	AGAGTCAC	AGTAGCGT	UF511	i5	UR703	i7	Klebsiella pneumoniae K390	2M gut	GEP
+Klebsiella_gut_OMA	AGAGTCAC	CAGTGAGT	UF511	i5	UR704	i7	Klebsiella pneumoniae K390	2M gut	OMA
+Klebsiella_gut_APS	AGAGTCAC	CGTACTCA	UF511	i5	UR705	i7	Klebsiella pneumoniae K390	2M gut	APS
+Klebsiella_soil_MOX	AGAGTCAC	CTACGCAG	UF511	i5	UR706	i7	Klebsiella pneumoniae K390	5M soil	MOX
+Klebsiella_soil_CFD	AGAGTCAC	GGAGACTA	UF511	i5	UR707	i7	Klebsiella pneumoniae K390	5M soil	CFD
+Klebsiella_soil_FOX	AGAGTCAC	GTCGCTCG	UF511	i5	UR708	i7	Klebsiella pneumoniae K390	5M soil	FOX
+Klebsiella_soil_DOX	AGAGTCAC	GTCGTAGT	UF511	i5	UR709	i7	Klebsiella pneumoniae K390	5M soil	DOX
+Klebsiella_soil_MER	AGAGTCAC	TAGCAGAC	UF511	i5	UR710	i7	Klebsiella pneumoniae K390	5M soil	MER
+Klebsiella_soil_GEN	AGAGTCAC	TCATAGAC	UF511	i5	UR711	i7	Klebsiella pneumoniae K390	5M soil	GEN
+Klebsiella_soil_SUL	AGAGTCAC	TCGCTATA	UF511	i5	UR712	i7	Klebsiella pneumoniae K390	5M soil	SUL
+Klebsiella_soil_ERA	TACGAGAC	AACTCTCG	UF512	i5	UR701	i7	Klebsiella pneumoniae K390	5M soil	ERA
+Klebsiella_soil_CEF	TACGAGAC	ACTATGTC	UF512	i5	UR702	i7	Klebsiella pneumoniae K390	5M soil	CEF
+Klebsiella_soil_DEL	TACGAGAC	AGTAGCGT	UF512	i5	UR703	i7	Klebsiella pneumoniae K390	5M soil	DEL
+Klebsiella_soil_GEP	TACGAGAC	CAGTGAGT	UF512	i5	UR704	i7	Klebsiella pneumoniae K390	5M soil	GEP
+Klebsiella_soil_OMA	TACGAGAC	CGTACTCA	UF512	i5	UR705	i7	Klebsiella pneumoniae K390	5M soil	OMA
+Klebsiella_soil_APS	TACGAGAC	CTACGCAG	UF512	i5	UR706	i7	Klebsiella pneumoniae K390	5M soil	APS

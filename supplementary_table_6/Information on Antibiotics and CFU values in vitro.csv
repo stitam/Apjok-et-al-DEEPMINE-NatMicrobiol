@@ -1,0 +1,157 @@
+Antibiotic,Host,Resistome,Clone,Type,Class
+CFD,Escherichia coli BW25118,Gut,106,old,Cephalosporin
+MOX,Escherichia coli BW25118,Gut,13,old,Fluoroquinolone
+DOX,Escherichia coli BW25118,Gut,88,old,Tetracycline
+FOX,Escherichia coli BW25118,Gut,NA,old,Cephalosporin
+MER,Escherichia coli BW25118,Gut,88,old,Carbapenem
+SUL,Escherichia coli BW25118,Gut,NA,new,Carbapenem
+GEN,Escherichia coli BW25118,Gut,NA,old,Aminoglycoside
+ERA,Escherichia coli BW25118,Gut,95,new,Tetracycline
+CEF,Escherichia coli BW25118,Gut,141,new,Cephalosporin
+DEL,Escherichia coli BW25118,Gut,57,new,Fluoroquinolone
+GEP,Escherichia coli BW25118,Gut,30,new,Fluoroquinolone
+APS,Escherichia coli BW25118,Gut,NA,new,Aminoglycoside
+OMA,Escherichia coli BW25118,Gut,42,new,Tetracycline
+CFD,Escherichia coli BW25118,Soil,42,old,Cephalosporin
+MOX,Escherichia coli BW25118,Soil,33,old,Fluoroquinolone
+DOX,Escherichia coli BW25118,Soil,65,old,Tetracycline
+FOX,Escherichia coli BW25118,Soil,24,old,Cephalosporin
+MER,Escherichia coli BW25118,Soil,118,old,Carbapenem
+SUL,Escherichia coli BW25118,Soil,45,new,Carbapenem
+GEN,Escherichia coli BW25118,Soil,NA,old,Aminoglycoside
+ERA,Escherichia coli BW25118,Soil,392,new,Tetracycline
+CEF,Escherichia coli BW25118,Soil,426,new,Cephalosporin
+DEL,Escherichia coli BW25118,Soil,33,new,Fluoroquinolone
+GEP,Escherichia coli BW25118,Soil,296,new,Fluoroquinolone
+APS,Escherichia coli BW25118,Soil,247,new,Aminoglycoside
+OMA,Escherichia coli BW25118,Soil,56,new,Tetracycline
+CFD,Escherichia coli BW25118,Pathogen,6841,old,Cephalosporin
+MOX,Escherichia coli BW25118,Pathogen,107,old,Fluoroquinolone
+DOX,Escherichia coli BW25118,Pathogen,820,old,Tetracycline
+FOX,Escherichia coli BW25118,Pathogen,381,old,Cephalosporin
+MER,Escherichia coli BW25118,Pathogen,603,old,Carbapenem
+SUL,Escherichia coli BW25118,Pathogen,224,new,Carbapenem
+GEN,Escherichia coli BW25118,Pathogen,1527,old,Aminoglycoside
+ERA,Escherichia coli BW25118,Pathogen,433,new,Tetracycline
+CEF,Escherichia coli BW25118,Pathogen,663,new,Cephalosporin
+DEL,Escherichia coli BW25118,Pathogen,201,new,Fluoroquinolone
+GEP,Escherichia coli BW25118,Pathogen,546,new,Fluoroquinolone
+APS,Escherichia coli BW25118,Pathogen,NA,new,Aminoglycoside
+OMA,Escherichia coli BW25118,Pathogen,514,new,Tetracycline
+CFD,Shigella sonnei HNCMB 25021,Gut,62,old,Cephalosporin
+MOX,Shigella sonnei HNCMB 25021,Gut,NA,old,Fluoroquinolone
+DOX,Shigella sonnei HNCMB 25021,Gut,6,old,Tetracycline
+FOX,Shigella sonnei HNCMB 25021,Gut,NA,old,Cephalosporin
+MER,Shigella sonnei HNCMB 25021,Gut,14,old,Carbapenem
+SUL,Shigella sonnei HNCMB 25021,Gut,19,new,Carbapenem
+GEN,Shigella sonnei HNCMB 25021,Gut,NA,old,Aminoglycoside
+ERA,Shigella sonnei HNCMB 25021,Gut,4,new,Tetracycline
+CEF,Shigella sonnei HNCMB 25021,Gut,4040,new,Cephalosporin
+DEL,Shigella sonnei HNCMB 25021,Gut,7100,new,Fluoroquinolone
+GEP,Shigella sonnei HNCMB 25021,Gut,NA,new,Fluoroquinolone
+APS,Shigella sonnei HNCMB 25021,Gut,215,new,Aminoglycoside
+OMA,Shigella sonnei HNCMB 25021,Gut,NA,new,Tetracycline
+CFD,Shigella sonnei HNCMB 25021,Soil,58,old,Cephalosporin
+MOX,Shigella sonnei HNCMB 25021,Soil,NA,old,Fluoroquinolone
+DOX,Shigella sonnei HNCMB 25021,Soil,NA,old,Tetracycline
+FOX,Shigella sonnei HNCMB 25021,Soil,13,old,Cephalosporin
+MER,Shigella sonnei HNCMB 25021,Soil,5,old,Carbapenem
+SUL,Shigella sonnei HNCMB 25021,Soil,33,new,Carbapenem
+GEN,Shigella sonnei HNCMB 25021,Soil,1,old,Aminoglycoside
+ERA,Shigella sonnei HNCMB 25021,Soil,132,new,Tetracycline
+CEF,Shigella sonnei HNCMB 25021,Soil,801,new,Cephalosporin
+DEL,Shigella sonnei HNCMB 25021,Soil,1496,new,Fluoroquinolone
+GEP,Shigella sonnei HNCMB 25021,Soil,4144,new,Fluoroquinolone
+APS,Shigella sonnei HNCMB 25021,Soil,3500,new,Aminoglycoside
+OMA,Shigella sonnei HNCMB 25021,Soil,350,new,Tetracycline
+CFD,Shigella sonnei HNCMB 25021,Pathogen,192,old,Cephalosporin
+MOX,Shigella sonnei HNCMB 25021,Pathogen,11,old,Fluoroquinolone
+DOX,Shigella sonnei HNCMB 25021,Pathogen,399,old,Tetracycline
+FOX,Shigella sonnei HNCMB 25021,Pathogen,67,old,Cephalosporin
+MER,Shigella sonnei HNCMB 25021,Pathogen,246,old,Carbapenem
+SUL,Shigella sonnei HNCMB 25021,Pathogen,427,new,Carbapenem
+GEN,Shigella sonnei HNCMB 25021,Pathogen,2247,old,Aminoglycoside
+ERA,Shigella sonnei HNCMB 25021,Pathogen,249,new,Tetracycline
+CEF,Shigella sonnei HNCMB 25021,Pathogen,212,new,Cephalosporin
+DEL,Shigella sonnei HNCMB 25021,Pathogen,554,new,Fluoroquinolone
+GEP,Shigella sonnei HNCMB 25021,Pathogen,236,new,Fluoroquinolone
+APS,Shigella sonnei HNCMB 25021,Pathogen,NA,new,Aminoglycoside
+OMA,Shigella sonnei HNCMB 25021,Pathogen,95,new,Tetracycline
+CFD,Klebsiella pneumoniae K390,Gut,301,old,Cephalosporin
+MOX,Klebsiella pneumoniae K390,Gut,672,old,Fluoroquinolone
+DOX,Klebsiella pneumoniae K390,Gut,187,old,Tetracycline
+FOX,Klebsiella pneumoniae K390,Gut,116,old,Cephalosporin
+MER,Klebsiella pneumoniae K390,Gut,NA,old,Carbapenem
+SUL,Klebsiella pneumoniae K390,Gut,5,new,Carbapenem
+GEN,Klebsiella pneumoniae K390,Gut,34,old,Aminoglycoside
+ERA,Klebsiella pneumoniae K390,Gut,169,new,Tetracycline
+CEF,Klebsiella pneumoniae K390,Gut,146,new,Cephalosporin
+DEL,Klebsiella pneumoniae K390,Gut,242,new,Fluoroquinolone
+GEP,Klebsiella pneumoniae K390,Gut,81,new,Fluoroquinolone
+APS,Klebsiella pneumoniae K390,Gut,60,new,Aminoglycoside
+OMA,Klebsiella pneumoniae K390,Gut,247,new,Tetracycline
+CFD,Klebsiella pneumoniae K390,Soil,142,old,Cephalosporin
+MOX,Klebsiella pneumoniae K390,Soil,75,old,Fluoroquinolone
+DOX,Klebsiella pneumoniae K390,Soil,154,old,Tetracycline
+FOX,Klebsiella pneumoniae K390,Soil,88,old,Cephalosporin
+MER,Klebsiella pneumoniae K390,Soil,41,old,Carbapenem
+SUL,Klebsiella pneumoniae K390,Soil,56,new,Carbapenem
+GEN,Klebsiella pneumoniae K390,Soil,174,old,Aminoglycoside
+ERA,Klebsiella pneumoniae K390,Soil,144,new,Tetracycline
+CEF,Klebsiella pneumoniae K390,Soil,68,new,Cephalosporin
+DEL,Klebsiella pneumoniae K390,Soil,30,new,Fluoroquinolone
+GEP,Klebsiella pneumoniae K390,Soil,287,new,Fluoroquinolone
+APS,Klebsiella pneumoniae K390,Soil,165,new,Aminoglycoside
+OMA,Klebsiella pneumoniae K390,Soil,268,new,Tetracycline
+CFD,Klebsiella pneumoniae K390,Pathogen,3250,old,Cephalosporin
+MOX,Klebsiella pneumoniae K390,Pathogen,2420,old,Fluoroquinolone
+DOX,Klebsiella pneumoniae K390,Pathogen,2372,old,Tetracycline
+FOX,Klebsiella pneumoniae K390,Pathogen,1584,old,Cephalosporin
+MER,Klebsiella pneumoniae K390,Pathogen,143,old,Carbapenem
+SUL,Klebsiella pneumoniae K390,Pathogen,355,new,Carbapenem
+GEN,Klebsiella pneumoniae K390,Pathogen,1920,old,Aminoglycoside
+ERA,Klebsiella pneumoniae K390,Pathogen,1975,new,Tetracycline
+CEF,Klebsiella pneumoniae K390,Pathogen,578,new,Cephalosporin
+DEL,Klebsiella pneumoniae K390,Pathogen,673,new,Fluoroquinolone
+GEP,Klebsiella pneumoniae K390,Pathogen,592,new,Fluoroquinolone
+APS,Klebsiella pneumoniae K390,Pathogen,NA,new,Aminoglycoside
+OMA,Klebsiella pneumoniae K390,Pathogen,2450,new,Tetracycline
+CFD,Salmonella enterica LT2,Gut,302,old,Cephalosporin
+MOX,Salmonella enterica LT2,Gut,1380,old,Fluoroquinolone
+DOX,Salmonella enterica LT2,Gut,10000,old,Tetracycline
+FOX,Salmonella enterica LT2,Gut,26,old,Cephalosporin
+MER,Salmonella enterica LT2,Gut,NA,old,Carbapenem
+SUL,Salmonella enterica LT2,Gut,NA,new,Carbapenem
+GEN,Salmonella enterica LT2,Gut,832,old,Aminoglycoside
+ERA,Salmonella enterica LT2,Gut,816,new,Tetracycline
+CEF,Salmonella enterica LT2,Gut,242,new,Cephalosporin
+DEL,Salmonella enterica LT2,Gut,3200,new,Fluoroquinolone
+GEP,Salmonella enterica LT2,Gut,250,new,Fluoroquinolone
+APS,Salmonella enterica LT2,Gut,42,new,Aminoglycoside
+OMA,Salmonella enterica LT2,Gut,228,new,Tetracycline
+CFD,Salmonella enterica LT2,Soil,42,old,Cephalosporin
+MOX,Salmonella enterica LT2,Soil,524,old,Fluoroquinolone
+DOX,Salmonella enterica LT2,Soil,10000,old,Tetracycline
+FOX,Salmonella enterica LT2,Soil,164,old,Cephalosporin
+MER,Salmonella enterica LT2,Soil,NA,old,Carbapenem
+SUL,Salmonella enterica LT2,Soil,NA,new,Carbapenem
+GEN,Salmonella enterica LT2,Soil,1240,old,Aminoglycoside
+ERA,Salmonella enterica LT2,Soil,520,new,Tetracycline
+CEF,Salmonella enterica LT2,Soil,72,new,Cephalosporin
+DEL,Salmonella enterica LT2,Soil,2736,new,Fluoroquinolone
+GEP,Salmonella enterica LT2,Soil,138,new,Fluoroquinolone
+APS,Salmonella enterica LT2,Soil,448,new,Aminoglycoside
+OMA,Salmonella enterica LT2,Soil,432,new,Tetracycline
+CFD,Salmonella enterica LT2,Pathogen,996,old,Cephalosporin
+MOX,Salmonella enterica LT2,Pathogen,784,old,Fluoroquinolone
+DOX,Salmonella enterica LT2,Pathogen,10000,old,Tetracycline
+FOX,Salmonella enterica LT2,Pathogen,93,old,Cephalosporin
+MER,Salmonella enterica LT2,Pathogen,13,old,Carbapenem
+SUL,Salmonella enterica LT2,Pathogen,67,new,Carbapenem
+GEN,Salmonella enterica LT2,Pathogen,1152,old,Aminoglycoside
+ERA,Salmonella enterica LT2,Pathogen,1264,new,Tetracycline
+CEF,Salmonella enterica LT2,Pathogen,70,new,Cephalosporin
+DEL,Salmonella enterica LT2,Pathogen,2332,new,Fluoroquinolone
+GEP,Salmonella enterica LT2,Pathogen,992,new,Fluoroquinolone
+APS,Salmonella enterica LT2,Pathogen,24,new,Aminoglycoside
+OMA,Salmonella enterica LT2,Pathogen,405,new,Tetracycline
