@@ -19,6 +19,10 @@ Illumina reads and nanopore contigs can be downloaded from the European
 Nucleotide Archive. Study Accession: PRJEB54063 (Secondary Accession:
 ERP138883)
 
+``` r
+suppressMessages(source("prepare_input_data.R"))
+```
+
 ## Demultiplex illumina reads
 
 Download Apptainer/Singularity container for demultiplexing:

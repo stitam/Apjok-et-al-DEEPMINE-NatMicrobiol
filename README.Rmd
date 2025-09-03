@@ -22,7 +22,7 @@ Code deposited for paper "Expanding the host-range of functional metagenomics re
 
 Illumina reads and nanopore contigs can be downloaded from the European Nucleotide Archive. Study Accession: PRJEB54063 (Secondary Accession: ERP138883)
 
-```{r echo = FALSE, eval = FALSE}
+```{r}
 suppressMessages(source("prepare_input_data.R"))
 ```
 
