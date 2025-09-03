@@ -1,3 +1,4 @@
+library(Biostrings)
 library(stringr)
 library(tidyverse)
 library(plyr)
@@ -6,24 +7,21 @@ library(ggplot2)
 library(grid)
 rm(list = ls())
 
-##1. READ TRHOUGH THE FILE LIST OF NANOPORE BARCODES FROM FIRST RUN
-dir_path_first_run = "../run1/nanopore"
-filelist_first_run <- list.files(dir_path_first_run,pattern="*.fasta", full.names=TRUE)
+# import nanopore sequences from first run
+nano1 <- Biostrings::readDNAStringSet("../run1/nanopore/ERS14372539.fasta.gz")
 
-#create a list
-lst_first_run <- lapply(filelist_first_run, read.delim, header = TRUE, sep = "\n", stringsAsFactors=FALSE)
+# convert to data frame 
+nano1_df <- nano1 %>%
+  as.character() %>%
+  as.data.frame() %>%
+  tibble::rownames_to_column()
+names(nano1_df) <- c("name", "Contig.Sequence")
+nano1_df$name <- gsub("\\.|:| ", "_", nano1_df$name)
+nano1_df$name <- paste0("X_", nano1_df$name)
 
-#convert list to dataframe (takes a couple of minutes to run)
-nanopore_table_first_run <- lst_first_run %>%
-  data.table::rbindlist(fill=T)%>%
-  tibble::rownames_to_column() %>%  
-  pivot_longer(-rowname) %>% 
-  pivot_wider(names_from=rowname, values_from=value)%>%
-  gather(variables, Contig.Sequence, -1, na.rm = TRUE) %>%
-  select(-variables)
+nanopore_table_first_run <- nano1_df
 
 #break down information for each sequence (nanopores downstream and upstream are inverted)
-nanopore_table_first_run$name <- gsub("\\.", "_", nanopore_table_first_run$name)
 nanopore_table_first_run <- data.frame(nanopore_table_first_run,do.call(rbind,str_split(nanopore_table_first_run$name,"_")))
 names(nanopore_table_first_run)[c(4,5,8,11)] <- c("Downstream.Barcode", "Upstream.Barcode", "Contig.Length", "Nanopore.Read.Count")
 nanopore_first_run <- nanopore_table_first_run[, c(1,2,4,5,8,11)]
@@ -54,24 +52,22 @@ hgt_first_run_name <- merge(hgt_first_run, merge_nanopore_first_run, by = c("Dow
 
 
 
-##2. READ THROUGH THE FILE LIST OF NANOPORE BARCODES FROM SECOND RUN
-dir_path_second_run = "../run2/nanopore"
-filelist_second_run <- list.files(dir_path_second_run,pattern="*.fasta", full.names=TRUE)
 
-#create a list
-lst_second_run <- lapply(filelist_second_run, read.delim, header = TRUE, sep = "\n", stringsAsFactors=FALSE)
+# import nanopore sequences from second run
+nano2 <- Biostrings::readDNAStringSet("../run2/nanopore/ERS14372540.fasta.gz")
 
-#convert list to dataframe (takes a couple of minutes to run)
-nanopore_table_second_run <- lst_second_run %>%
-  data.table::rbindlist(fill=T)%>%
-  tibble::rownames_to_column() %>%  
-  pivot_longer(-rowname) %>% 
-  pivot_wider(names_from=rowname, values_from=value)%>%
-  gather(variables, Contig.Sequence, -1, na.rm = TRUE) %>%
-  select(-variables)
+# convert to data frame 
+nano2_df <- nano2 %>%
+  as.character() %>%
+  as.data.frame() %>%
+  tibble::rownames_to_column()
+names(nano2_df) <- c("name", "Contig.Sequence")
+nano2_df$name <- gsub("\\.|:| ", "_", nano2_df$name)
+nano2_df$name <- paste0("X_", nano2_df$name)
+
+nanopore_table_second_run <- nano2_df
 
 #break down information for each sequence (nanopores downstream and upstream are inverted)
-nanopore_table_second_run$name <- gsub("\\.", "_", nanopore_table_second_run$name)
 nanopore_table_second_run <- data.frame(nanopore_table_second_run,do.call(rbind,str_split(nanopore_table_second_run$name,"_")))
 names(nanopore_table_second_run)[c(4,5,8,11)] <- c("Downstream.Barcode", "Upstream.Barcode", "Contig.Length", "Nanopore.Read.Count")
 nanopore_second_run <- nanopore_table_second_run[, c(1,2,4,5,8,11)]
