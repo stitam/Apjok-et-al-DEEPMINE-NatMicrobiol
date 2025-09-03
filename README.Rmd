@@ -6,7 +6,7 @@ editor_options:
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 ```{r echo = FALSE}
-knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+knitr::opts_chunk$set(echo = TRUE, eval = FALSE, message = FALSE, warning = FALSE)
 ```
 
 # Apjok-et-al-DEEPMINE-NatMicrobiol
