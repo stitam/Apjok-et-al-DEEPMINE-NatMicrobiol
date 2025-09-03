@@ -2,30 +2,27 @@ root <- getwd()
 
 # ILLUMINA
 
-# TODO: uncomment if public
 # download run1 illumina data to run1/illumina
-#if (!dir.exists("run1/illumina")) dir.create("run1/illumina")
-#setwd("run1/illumina")
-#if(!file.exists("Undetermined_S0_L001_R1_001.fastq.gz")) {
-#  system("wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR103/ERR10357135/ERS13545904_R1.fastq -O Undetermined_S0_L001_R1_001.fastq.gz")
-#}
-#if(!file.exists("Undetermined_S0_L001_R2_001.fastq.gz")) {
-#  system("wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR103/ERR10357135/ERS13545904_R2.fastq -O Undetermined_S0_L001_R2_001.fastq.gz")
-#}
-#setwd(root)
+if (!dir.exists("run1/illumina")) dir.create("run1/illumina")
+setwd("run1/illumina")
+if(!file.exists("Undetermined_S0_L001_R1_001.fastq.gz")) {
+ system("wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR103/035/ERR10357135/ERR10357135_1.fastq.gz -O Undetermined_S0_L001_R1_001.fastq.gz")
+}
+if(!file.exists("Undetermined_S0_L001_R2_001.fastq.gz")) {
+ system("wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR103/035/ERR10357135/ERR10357135_2.fastq.gz -O Undetermined_S0_L001_R2_001.fastq.gz")
+}
+setwd(root)
 
-# TODO: uncomment if public
-# download run2 illumina data to run2/illumina
-#if (!dir.exists("run2/illumina")) dir.create("run2/illumina")
-#setwd("run2/illumina")
-#if(!file.exists("Undetermined_S0_L001_R1_001.fastq.gz")) {
-#  system("wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR103/ERR10355437/ERS13545905_R1.fastq -O Undetermined_S0_L001_R1_001.fastq.gz")
-#}
-#if(!file.exists("Undetermined_S0_L001_R2_001.fastq.gz")) {
-#  system("wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR103/ERR10355437/ERS13545905_R2.fastq -O Undetermined_S0_L001_R2_001.fastq.gz")
-#}
-#setwd(root)
-
+#download run2 illumina data to run2/illumina
+if (!dir.exists("run2/illumina")) dir.create("run2/illumina")
+setwd("run2/illumina")
+if(!file.exists("Undetermined_S0_L001_R1_001.fastq.gz")) {
+ system("wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR103/037/ERR10355437/ERR10355437_1.fastq.gz -O Undetermined_S0_L001_R1_001.fastq.gz")
+}
+if(!file.exists("Undetermined_S0_L001_R2_001.fastq.gz")) {
+ system("wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR103/037/ERR10355437/ERR10355437_2.fastq.gz -O Undetermined_S0_L001_R2_001.fastq.gz")
+}
+setwd(root)
 
 # download run3 illumina data to run3/illumina
 if (!dir.exists("run3/illumina")) dir.create("run3/illumina")
