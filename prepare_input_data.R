@@ -7,10 +7,10 @@ root <- getwd()
 #if (!dir.exists("run1/illumina")) dir.create("run1/illumina")
 #setwd("run1/illumina")
 #if(!file.exists("Undetermined_S0_L001_R1_001.fastq.gz")) {
-#  system("wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR103/ERR10323306/ERR10323306_R1.fastq.gz -O Undetermined_S0_L001_R1_001.fastq.gz")
+#  system("wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR103/ERR10357135/ERS13545904_R1.fastq -O Undetermined_S0_L001_R1_001.fastq.gz")
 #}
 #if(!file.exists("Undetermined_S0_L001_R2_001.fastq.gz")) {
-#  system("wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR103/ERR10323306/ERR10323306_R2.fastq.gz -O Undetermined_S0_L001_R2_001.fastq.gz")
+#  system("wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR103/ERR10357135/ERS13545904_R2.fastq -O Undetermined_S0_L001_R2_001.fastq.gz")
 #}
 #setwd(root)
 
@@ -19,10 +19,10 @@ root <- getwd()
 #if (!dir.exists("run2/illumina")) dir.create("run2/illumina")
 #setwd("run2/illumina")
 #if(!file.exists("Undetermined_S0_L001_R1_001.fastq.gz")) {
-#  system("wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR103/ERR10355437/ERR10355437_R1.fastq.gz -O Undetermined_S0_L001_R1_001.fastq.gz")
+#  system("wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR103/ERR10355437/ERS13545905_R1.fastq -O Undetermined_S0_L001_R1_001.fastq.gz")
 #}
 #if(!file.exists("Undetermined_S0_L001_R2_001.fastq.gz")) {
-#  system("wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR103/ERR10355437/ERR10355437_R2.fastq.gz -O Undetermined_S0_L001_R2_001.fastq.gz")
+#  system("wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR103/ERR10355437/ERS13545905_R2.fastq -O Undetermined_S0_L001_R2_001.fastq.gz")
 #}
 #setwd(root)
 
